@@ -1,0 +1,18 @@
+[
+  {
+    "nombre": "JavaScript",
+    "avatar": "https://programarfacil.com/wp-content/uploads/2015/07/js-logo.png"
+  },
+  {
+    "nombre": "Bootstrap",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCbaeUlp7jB0oD4eAWjey_-4YNtBMdjCFzA&usqp=CAU"
+  },
+  {
+    "nombre": "CSS",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu9e6yhMoyT9-gMJucYJLXkNaW6vJHOs9jtHjSY9BpNSGS514JPjwe5gW9WvxTEli5bOw&usqp=CAU"
+  },
+  {
+    "nombre": "HTML",
+    "avatar": "http://micoserv.org/images/html.png"
+  }
+]
